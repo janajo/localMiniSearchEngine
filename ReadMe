@@ -1,0 +1,11 @@
+On lines 350 and 359, "/Users/jana/Desktop/cranfieldfolder/" needs to be replaced with the location of the folder where the text files are stored
+On line 350 replace  +cranfield1+".txt"  with  +cranfield1
+On line 359 replace  +cranfield2+".txt"  with  +cranfield2
+
+All stop words are filtered out
+
+Documents are sorted by decreasing frequency
+
+Most punction is stripped so hypened words will show as two seperate words
+
+End of program will promt you to type "yes" to run again, anything else will close the program
